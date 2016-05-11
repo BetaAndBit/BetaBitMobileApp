@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "username"; ObjectID = "2mv-fj-8lC"; */
+"2mv-fj-8lC.text" = "username";
+
+/* Class = "UIViewController"; title = "Task # room ##"; ObjectID = "3jz-9j-kbQ"; */
+"3jz-9j-kbQ.title" = "Zadanie # pokój ##";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "61e-pX-N0c"; */
+"61e-pX-N0c.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "65N-2a-X3f"; */
+"65N-2a-X3f.title" = "Profil";
+
+/* Class = "UILabel"; text = "You are logged in as:"; ObjectID = "AUl-Wc-Skb"; */
+"AUl-Wc-Skb.text" = "Jesteś zalogowany jako:";
+
+/* Class = "UITextField"; placeholder = "Type in the answer"; ObjectID = "FTG-g5-Hxi"; */
+"FTG-g5-Hxi.placeholder" = "Wpisz odpowiedź";
+
+/* Class = "UIButton"; normalTitle = "Title"; ObjectID = "IMA-Ki-NpC"; */
+"IMA-Ki-NpC.normalTitle" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "Om3-ly-W16"; */
+"Om3-ly-W16.normalTitle" = "Pomiń";
+
+/* Class = "UITabBarItem"; title = "Tasks"; ObjectID = "Qlc-K5-8HN"; */
+"Qlc-K5-8HN.title" = "Zadania";
+
+/* Class = "UITabBarItem"; title = "Scan"; ObjectID = "T5v-za-6e7"; */
+"T5v-za-6e7.title" = "Skanuj";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "aP9-ZT-9oz"; */
+"aP9-ZT-9oz.text" = "lub";
+
+/* Class = "UIButton"; normalTitle = " Send "; ObjectID = "uKZ-eM-lfG"; */
+"uKZ-eM-lfG.normalTitle" = " Wyślij ";
+
+/* Class = "UITabBarItem"; title = "Scan"; ObjectID = "yxY-qy-q15"; */
+"yxY-qy-q15.title" = "Skanuj";
